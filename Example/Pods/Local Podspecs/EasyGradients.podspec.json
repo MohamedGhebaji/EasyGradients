@@ -1,22 +1,23 @@
 {
   "name": "EasyGradients",
-  "version": "0.1.0",
-  "summary": "A short description of EasyGradients.",
+  "version": "0.1.1",
+  "summary": "Easy wrapper on CAGradientLayer class",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/mohamedghebaji/EasyGradients",
+  "homepage": "https://github.com/MohamedGhebaji/EasyGradients",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "mohamedghebaji": "ghebaji.mohamed@gmail.com"
+    "Mohamed Ghebaji": "ghebaji.mohamed@gmail.com"
   },
   "source": {
-    "git": "https://github.com/mohamedghebaji/EasyGradients.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/MohamedGhebaji/EasyGradients.git",
+    "tag": "0.1.1"
   },
+  "source_files": "EasyGradients/Classes/**/*",
+  "social_media_url": "https://twitter.com/MohamedGhebaji",
   "platforms": {
     "ios": "8.0"
-  },
-  "source_files": "EasyGradients/Classes/**/*"
+  }
 }

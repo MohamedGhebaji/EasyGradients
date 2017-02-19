@@ -1,5 +1,5 @@
 PODS:
-  - EasyGradients (0.1.0)
+  - EasyGradients (0.1.1)
 
 DEPENDENCIES:
   - EasyGradients (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  EasyGradients: 57a3445625f694740dcfd2a7af6c180747f3b175
+  EasyGradients: 77af545539a659ed5c213c335716bc5dec4f13ba
 
-PODFILE CHECKSUM: 10b42cb2b37d7d5b3324fe789831dc53ef7fbca7
+PODFILE CHECKSUM: bc230019c2be6ec76176ab2bddc7fa106c353281
 
 COCOAPODS: 1.2.0

@@ -4,10 +4,10 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>EasyGradients.xcscheme_^#shared#^_</key>
+		<key>EasyGradients.xcscheme</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Pods-EasyGradients_Example.xcscheme</key>
 		<dict>
@@ -27,7 +27,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C22BE510FF5C75E09EECF0F4854D0F88</key>
+		<key>D88ECC3532A69E4682CDF09E5E256969</key>
 		<dict>
 			<key>primary</key>
 			<true/>
