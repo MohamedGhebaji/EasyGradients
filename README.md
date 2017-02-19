@@ -1,6 +1,6 @@
 # EasyGradients
 
-[![CI Status](http://img.shields.io/travis/mohamedghebaji/EasyGradients.svg?style=flat)](https://travis-ci.org/mohamedghebaji/EasyGradients)
+[![CI Status](http://img.shields.io/travis/MohamedGhebaji/EasyGradients.svg?style=flat)](https://travis-ci.org/mohamedghebaji/EasyGradients)
 [![Version](https://img.shields.io/cocoapods/v/EasyGradients.svg?style=flat)](http://cocoapods.org/pods/EasyGradients)
 [![License](https://img.shields.io/cocoapods/l/EasyGradients.svg?style=flat)](http://cocoapods.org/pods/EasyGradients)
 [![Platform](https://img.shields.io/cocoapods/p/EasyGradients.svg?style=flat)](http://cocoapods.org/pods/EasyGradients)
