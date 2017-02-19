@@ -7,5 +7,5 @@ before_install:
  - pod install --project-directory=Example #
  - echo "3.0" > .swift-version #
 script:
-- set -o pipefail && xcodebuild test -workspace Example/EasyGradients.xcworkspace -scheme EasyGradients-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO | xcpretty
+- set -o pipefail && xcodebuild test -workspace Example/EasyGradients.xcworkspace -scheme EasyGradients-Example -destination 'platform=iOS Simulator,name=iPhone 6,OS=9.1' ONLY_ACTIVE_ARCH=NO | xcpretty
 - pod lib lint
