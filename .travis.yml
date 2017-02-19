@@ -4,8 +4,8 @@ language: objective-c
 # podfile: Example/Podfile
 before_install:
  - gem install cocoapods # Since Travis is not always on latest version
- - pod install --project-directory=Example
-  - echo "3.0" > .swift-version
+ - pod install --project-directory=Example #
+ - echo "3.0" > .swift-version #
 script:
 - set -o pipefail && xcodebuild test -workspace Example/${POD_NAME}.xcworkspace -scheme ${POD_NAME}-Example -sdk iphonesimulator9.3 ONLY_ACTIVE_ARCH=NO | xcpretty
 - pod lib lint
