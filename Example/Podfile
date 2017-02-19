@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EasyGradients_Example' do
+  pod 'EasyGradients', :path => '../'
+
+  target 'EasyGradients_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,6 @@
+framework module EasyGradients {
+  umbrella header "EasyGradients-umbrella.h"
+
+  export *
+  module * { export * }
+}
